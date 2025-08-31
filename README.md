@@ -7,6 +7,9 @@ Fields = Player Name, Club, Level, Games Played, Goals, Assists, Points, Games P
 **** Known issues and potential upgrades ****
 
 - Minimal error checking. If a player is "not checked in", you will need to hand-edit that gamesheet to add the correct player names.
+- No distinction drawn between preseason, exhibition, regular season, playoffs, and tournaments. This is intentional in order to sum all player stats
+- Player names may change, e.g. some leagues may not use middle initials, some names are misspelled, some are all caps (which is not checked for). This creates duplicate records
+- Lots more, I'm sure
 
 **** How to use the script ****
 
